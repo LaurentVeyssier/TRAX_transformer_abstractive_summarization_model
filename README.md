@@ -1,7 +1,7 @@
 # TRAX_transformer_abstractive_summarization_model
 Use Trax and Transformer architecture for generative summarizer deep learning model
 
-![](asset/'transformernews.png')
+![](asset/transformernews.png)
 
 This colab notebook is based on Deeplearning.ai / coursera course ["Natural Language Processing with Attention Models"](https://www.coursera.org/learn/attention-models-in-nlp/home/welcome) week 2 assignment. This module is part of Deeplearning.ai 4-course [Natural Language Processing specialization](https://www.coursera.org/specializations/natural-language-processing).
 
